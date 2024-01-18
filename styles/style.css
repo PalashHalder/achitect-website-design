@@ -12,6 +12,7 @@ ul li{
     display: flex;
     background-color: red;
     justify-content: space-between;
+    padding: 50px 220px;
 }
 
 .nav{
